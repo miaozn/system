@@ -1,3 +1,3 @@
 ![](http://miaozn.github.io/misc/img/suanpan.jpg)     
-# system
+# computing system
 a glimpse of computing world.
