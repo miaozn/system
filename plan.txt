@@ -8,6 +8,7 @@ proxy
 cache
 shell
 cpu
+memory
 process scheduler
 file system
 paxos
