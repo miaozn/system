@@ -1,4 +1,5 @@
 assembler
+arithmetic evaluator
 compiler
 malloc
 http server
