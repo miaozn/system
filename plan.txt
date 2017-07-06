@@ -10,4 +10,6 @@ shell
 cpu
 process scheduler
 file system
+paxos
+raft
 ..
