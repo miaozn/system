@@ -13,4 +13,7 @@ process scheduler
 file system
 paxos
 raft
+hashmap
+heap
+red black tree
 ..
