@@ -1,2 +1,3 @@
+![](http://miaozn.github.io/misc/img/suanpan.jpg)     
 # system
-little toys of the world of computing systems
+a glimpse of computing world.
