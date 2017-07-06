@@ -1,0 +1,13 @@
+assembler
+compiler
+malloc
+http server
+http gateway
+dns
+proxy
+cache
+shell
+cpu
+process scheduler
+file system
+..
