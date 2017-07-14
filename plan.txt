@@ -11,6 +11,7 @@ shell
 cpu
 memory
 process scheduler
+disk
 file system
 paxos
 raft
